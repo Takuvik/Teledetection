@@ -7,7 +7,7 @@ Download and install Homebrew
 
 Install Homebrew and its dependencies
 
--   Brew install homebrew/science/gmt4-4.5.15
+-   brew install homebrew/science/gmt4-4.5.15
 
 This installation procedure was tested on Mac OS X Lion (10.7), Mac OS X
 Mountain Lion (10.8) and Mac OS X Yosemite (10.10).
